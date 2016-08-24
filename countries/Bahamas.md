@@ -1,6 +1,6 @@
 ##Bahamas
 ## population
-
+5 billion
 
 ## capital
 
