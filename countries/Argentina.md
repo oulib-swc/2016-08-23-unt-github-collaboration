@@ -1,6 +1,6 @@
 ##Argentina
 ## population
-
+number
 
 ## capital
 
