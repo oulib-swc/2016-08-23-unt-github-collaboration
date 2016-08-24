@@ -9,6 +9,6 @@
 
 
 ## interesting trivia
-
+wine, tapas, art
 
 
