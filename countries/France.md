@@ -1,6 +1,6 @@
 ##France
 ## population
-
+66.03 million (2013)
 
 ## capital
 
