@@ -1,6 +1,6 @@
 ##Afghanistan
 ## population
-
+add number
 
 ## capital
 
