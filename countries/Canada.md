@@ -1,6 +1,6 @@
 ##Canada
 ## population
-
+35,851,770
 
 ## capital
 
