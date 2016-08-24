@@ -3,7 +3,7 @@
 
 
 ## capital
-
+Bishkek
  
 ## official language
 
