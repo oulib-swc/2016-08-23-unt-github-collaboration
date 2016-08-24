@@ -1,9 +1,8 @@
-Ethiopia facts
+Ethiopia Facts
 
 #Population: 94.1 million
 
-#Captial: 
+#Captial: Addis Ababa
 
 #Official Language: Amharic
 
-#Pop facts: 
